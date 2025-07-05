@@ -6,6 +6,16 @@ It is part of an assessment designed to evaluate the following learning outcomes
 1. Install and configure Git for local development
 2. Understand and explain the use cases and benefits of GitHub
 
+## Installation & Set-Up
+1. Download and Install Git
+2. Ensure that you have a sufficiently recent version of Git using
+    ```bash
+    $ git --version # should be atleast 2.28.0
+    ```
+3. Clone or download this repository
+    ```bash
+    git clone <repository_url>
+
 ## The Assignment - The Making
 1. Exercise 1.3.1 
     - Created empty files called `foo` and `bar` using `touch` command
