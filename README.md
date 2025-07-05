@@ -70,3 +70,6 @@ It is part of an assessment designed to evaluate the following learning outcomes
 ## References
 1. Hartl, M. (n.d.). "Learn Enough Git to Be Dangerous." Retrieved from https://www.robertson.brigthspace.com
 2. Markup validation service. The W3C Markup Validation Service. (n.d.). https://validator.w3.org#validate_by_input+with_options
+
+## Official Git Documentation
+https://github.com/CodeElle/LearnEnoughGit-with-Laiza-Arriesgado.git
